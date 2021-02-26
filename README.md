@@ -4,6 +4,7 @@
 --update 2021.2.26
 
 AltRun等软件设置
+
 见 ClipboardContentChange_1.cpp（有解释）
 
 
